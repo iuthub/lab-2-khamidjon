@@ -1,6 +1,14 @@
 
+body{
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	background-image: url("images/background_pic.gif");
+}
 .content{
 	border: 5px green solid;
+	background-color: white;
 	
 }
 
@@ -17,6 +25,8 @@
 }
 
 .article{
-	
+	padding: 10px;
+	margin-top: 10px;
+	background-color: #E8FBFB;
 	border: 5px blue solid;
 }
