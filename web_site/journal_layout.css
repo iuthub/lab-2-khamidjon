@@ -1,0 +1,22 @@
+
+.content{
+	border: 5px green solid;
+	
+}
+
+#h2header{
+	border: 5px orange solid;
+}
+
+.header{
+	border: 5px red solid;
+}
+
+.date{
+	border: 5px purple solid;
+}
+
+.article{
+	
+	border: 5px blue solid;
+}
